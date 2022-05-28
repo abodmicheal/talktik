@@ -33,7 +33,7 @@ Talktik is a react library that helps you build customer relationship by integra
 
 ### About Talktik
 
-Talktik is a flexible react library which helps customers communicate with a customer service representative. Talktik allows the admin chat directly from your react web app, giving you the privilage to select a path name on your domain.
+Talktik is a flexible react library which helps customers communicate with a customer service representative. Talktik allows you the admin chat directly from your react web app, giving you the privilage to select a path name on your domain.
 see below for example:
 https://your-website-domain-name/admin-support
 
