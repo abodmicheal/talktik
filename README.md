@@ -43,4 +43,4 @@ With talkkit, flexibility is guaranteed!. This means you can customize your chat
 Start by adding `Talktik` as a dependency to your project with Yarn or npm:
 > **Note**: ...still writting the documentation, after completion it would be uploaded on npm and yarn
 
-###Thank you.
+### Thank you.
